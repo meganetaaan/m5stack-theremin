@@ -37,3 +37,4 @@
 .vscode/launch.json
 
 /tmp
+/src/const.h
